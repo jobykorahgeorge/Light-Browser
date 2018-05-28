@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_cache"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:title="Clear App Cache"
+        />
+    <item
+        android:id="@+id/web_cache"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:title="Clear Web Cache" />
+
+</menu>

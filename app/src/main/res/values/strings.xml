@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Light Browser</string>
+    <string name="facebook_lite">https://mbasic.facebook.com</string>
+    <string name="facebook_larg">https://www.facebook.com/</string>
+    <string name="skype">https://web.skype.com/</string>
+    <string name="linkedin">https://in.linkedin.com</string>
+    <string name="twitter">https://twitter.com/login?lang=en</string>
+    <string name="google"> Search <html><font color="#4885ed">G</font><font color="#db3236">o</font><font color="#f4c20d">o</font><font color="#4885ed">g</font><font color="#3cba54">l</font><font color="#db3236">e</font></html></string>
+
+
+    <string name="title_facebook">Facebook</string>
+    <string name="title_linkedin">Linkedin</string>
+    <string name="title_skype">Skype</string>
+    <string name="title_google">Google</string>
+    <string name="title_twitter">Twitter</string>
+    <string name="title_litefb">Facebook LTE</string>
+    <string name="light_browser">Light Browser : Privacy Matters</string>
+
+
+    <string name="apps_for_u">Apps For You</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Linked_in">Linked in</string>
+    <string name="google_s">Google</string>
+    <string name="gmail">Gmail</string>
+    <string name="twitter_s">Twitter</string>
+    <string name="fb_lite">Fb LTE</string>
+    <string name="youtube">Youtube</string>
+    <string name="paytm">Paytm</string>
+    <string name="Yahoo">Yahoo!</string>
+    <string name="Insta">Instagram</string>
+    <string name="telegram">Telegram</string>
+    <string name="flipkart">Flipkart</string>
+    <string name="amazon">Amazon</string>
+    <string name="ebay">ebay</string>
+    <string name="skype_s">Skype</string>
+
+</resources>

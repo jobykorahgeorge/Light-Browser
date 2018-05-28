@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Drop Shadow Stack -->
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#00CCCCCC" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#10CCCCCC" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#20CCCCCC" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#30CCCCCC" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#50CCCCCC" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+
+    <!-- Background -->
+    <item>
+        <shape>
+            <solid android:color="@color/new_white" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+</layer-list>
+
+<!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#ffffff"
+                android:centerColor="#a9a6a6"
+                android:endColor="#ffffff"
+                android:angle="90"
+                />
+            <corners android:radius="35dp"/>
+        </shape>
+    </item>
+    <item android:top="3px"
+        android:bottom="3px"
+        android:right="3px"
+        android:left="3px">
+        <shape>
+            <solid android:color="#ffffff" />
+            <corners android:radius="35dp"/>
+        </shape>
+    </item>
+</layer-list>-->
+
+    <!--
+    <?xml version="1.0" encoding="utf-8"?>
+    <layer-list
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:drawable="@drawable/edittext"
+            android:bottom="3px"
+            android:top="3dp"
+            android:left="3dp"
+            android:right="3dp"/>
+
+    </layer-list>-->
